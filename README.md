@@ -20,8 +20,10 @@ How to use
 2. Install NLTK (if it is not installed)
 3. Run the classifier
 
+Or run the following commands:
 
-    git clone git://github.com/victorneo/Twitter-Sentimental-Analysis.git
+    git clone git://github.com/victorneo/Twitter-Sentimental-Analysis.git twanalysis
+    cd twanalysis
     pip install nltk
     python classification.py
 
